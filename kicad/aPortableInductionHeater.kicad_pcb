@@ -13,6 +13,13 @@
   )
 
   (page A4)
+  (title_block
+    (title aPortableInductionHeater)
+    (date 2017-05-13)
+    (rev 1.0)
+    (company DELOUCHE-VILPOUX)
+  )
+
   (layers
     (0 Top signal)
     (31 Bottom power)

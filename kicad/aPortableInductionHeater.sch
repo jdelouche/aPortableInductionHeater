@@ -33,10 +33,10 @@ EELAYER END
 $Descr A3 16535 11693
 encoding utf-8
 Sheet 1 1
-Title "LAUNCHXL-F28027.sch"
-Date "24 MAR 2017"
-Rev ""
-Comp ""
+Title "aPortableInductionHeater"
+Date "2017-05-13"
+Rev "1.0"
+Comp "DELOUCHE-VILPOUX"
 Comment1 ""
 Comment2 ""
 Comment3 ""

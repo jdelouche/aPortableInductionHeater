@@ -361,23 +361,23 @@ $EndComp
 $Comp
 L LED_LEDCHIP-LED0603 LED_U3_1
 U 1 1 59048499
-P 14000 4650
-F 0 "LED_U3_1" V 14140 4470 70  0000 L BNN
-F 1 "~" H 13990 4540 65  0001 L TNN
-F 2 "LEDs:LED_D5.0mm" H 13990 4440 65  0001 L TNN
-F 3 "" H 14000 4650 60  0001 C CNN
-	1    14000 4650
+P 13950 4000
+F 0 "LED_U3_1" V 14090 3820 70  0000 L BNN
+F 1 "~" H 13940 3890 65  0001 L TNN
+F 2 "LEDs:LED_D5.0mm" H 13940 3790 65  0001 L TNN
+F 3 "" H 13950 4000 60  0001 C CNN
+	1    13950 4000
 	1    0    0    -1  
 $EndComp
 $Comp
 L RCL_R-US_R0402 R1
 U 1 1 590484A9
-P 14000 3800
-F 0 "R1" H 13850 3859 70  0000 L BNN
-F 1 "820" H 13850 3670 70  0000 L BNN
-F 2 "Resistors_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal" H 13990 3590 65  0001 L TNN
-F 3 "" H 14000 3800 60  0001 C CNN
-	1    14000 3800
+P 13950 3150
+F 0 "R1" H 13800 3209 70  0000 L BNN
+F 1 "820" H 13800 3020 70  0000 L BNN
+F 2 "Resistors_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal" H 13940 2940 65  0001 L TNN
+F 3 "" H 13950 3150 60  0001 C CNN
+	1    13950 3150
 	0    -1   -1   0   
 $EndComp
 $Comp
@@ -406,7 +406,7 @@ Text GLabel 10400 3550 1    60   Input ~ 0
 VCC
 Text GLabel 10400 3850 3    60   Input ~ 0
 GND
-Text GLabel 14000 3600 0    60   Input ~ 0
+Text GLabel 13950 2950 0    60   Input ~ 0
 3V3
 Text GLabel 2050 3450 1    60   Input ~ 0
 3V3
@@ -455,7 +455,7 @@ Text GLabel 12750 4050 3    60   Input ~ 0
 GND
 Text GLabel 13250 4050 3    60   Input ~ 0
 GND
-Text GLabel 14000 4850 3    60   Input ~ 0
+Text GLabel 13950 4200 3    60   Input ~ 0
 GND
 Text GLabel 10950 3350 0    60   Input ~ 0
 VCC
@@ -465,9 +465,9 @@ Text GLabel 12750 3750 1    60   Input ~ 0
 3V3
 Text GLabel 13250 3750 1    60   Input ~ 0
 3V3
-Text GLabel 14000 4000 3    60   Input ~ 0
+Text GLabel 13950 3350 3    60   Input ~ 0
 LED
-Text GLabel 14000 4550 1    60   Input ~ 0
+Text GLabel 13950 3900 1    60   Input ~ 0
 LED
 Text GLabel 12250 3350 1    60   Input ~ 0
 3V3-2
